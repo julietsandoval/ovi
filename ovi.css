@@ -41,7 +41,7 @@
 }
 .region {
 	width: 98%;
-	height: 600px;
+	height: 800px;
 }
 .footer {
 	width: 103%;
@@ -126,6 +126,7 @@ position:absolute;
 	margin-left: 2%;
 	float: left;
 	margin-bottom: 3%;
+	margin-top: 3%;
 }
 .redes {
 	float: right;
@@ -145,6 +146,7 @@ position:absolute;
 
 .twitt {
 	width: 10%;
+	height: auto;
 }
 .textoi {
 	width: 80%;
@@ -157,4 +159,16 @@ position:absolute;
 }
 .medioi {
 	width: 99%;
+}
+.banner {
+	width: 98%;
+	margin-top: 3%;
+}
+.imaginfe {
+	float: left;
+	width: 65%;
+}
+.twitteru {
+	float: right;
+	width: 25%;
 }
